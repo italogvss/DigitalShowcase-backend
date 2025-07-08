@@ -1,0 +1,23 @@
+{
+"type": "setting",
+"settings": {
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Spring Boot",
+      "request": "launch",
+      "mainClass": "italogvss.digitalshowcase.Start",
+      "projectName": "digitalshowcase"
+    }
+  ]
+},
+"configurations": [
+  {
+    "type": "java",
+    "name": "Start",
+    "request": "launch",
+    "mainClass": "italogvss.digitalshowcase.Start",
+    "projectName": "digitalshowcase"
+  }
+]
+}
